@@ -7,7 +7,7 @@ Tested on ubuntu , Debian
 
 Download and saving script on your server:
 ```bash
-curl -O https://raw.githubusercontent.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv/master/ocserv-install.sh
+curl -O https://raw.githubusercontent.com/Alsid66/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv/master/ocserv-install.sh
 ```
 
 Making script executable
