@@ -1,4 +1,4 @@
-# OpenConnect-VPN-Server
+# OpenConnect-VPN-Server(Script)
 Script for configuring OpenConnect (ocserv) protocol on the server easily and automatically.
 
 
