@@ -41,7 +41,8 @@ And one more thing, contributions are welcome.
 ## How to customize the configuration?
 
 sudo nano /etc/ocserv/ocserv.conf
- sudo systemctl restart ocserv (OR) sudo service ocserv restart
+
+sudo systemctl restart ocserv (OR) sudo service ocserv restart
 
 ## More
 The script is based on [here](https://ocserv.gitlab.io/www/recipes-ocserv-configuration-basic.html)
